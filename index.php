@@ -3,7 +3,8 @@
     <title>PHP Test</title>
   </head>
   <body>
-    <?php echo '<p>Hello World</p>'; ?> 
+    <?php echo '<h1>Hello World by Julien Lamoureux</h1>'; ?>
+    <?php echo '<p>My first webpage with PHP.</p>'; ?>
 
     <!--
     This script places a badge on your repl's full-browser view back to your repl's cover
